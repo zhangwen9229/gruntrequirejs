@@ -9,7 +9,7 @@ module.exports = function(grunt) {
           baseUrl: "./node_modules",
           mainConfigFile: "./scripts/main.js",
           name: "../scripts/main", // assumes a production build using almond
-          out: "./build/main.min.js"
+          out: "./scripts/main.min.js"
         }
       }
     }
