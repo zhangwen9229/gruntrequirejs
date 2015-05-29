@@ -9,7 +9,10 @@ require.config({
         // is using jQuery 1.9.0 located at
         // js/lib/jquery-1.9.0.js, relative to
         // the HTML page.
+<<<<<<< HEAD
         demo: "../scripts/demo",
+=======
+>>>>>>> 01a23082344aeb1cf342181e14b0e06d55f6bb82
         jquery: 'jquery/dist/jquery'
     }
 });
