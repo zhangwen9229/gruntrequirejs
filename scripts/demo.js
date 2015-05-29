@@ -1,4 +1,4 @@
-define('demo',['jquery'], function(j) {
+define(['jquery'], function(j) {
 
 	j("body").append("ttttttt")
 
